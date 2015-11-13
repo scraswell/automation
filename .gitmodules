@@ -1,3 +1,36 @@
 [submodule "openssl-net"]
 	path = openssl-net
 	url = https://github.com/openssl-net/openssl-net.git
+[submodule "automation-accounting"]
+	path = automation-accounting
+	url = git@github.com:scraswell/automation-accounting.git
+[submodule "automation-accounting-tests"]
+	path = automation-accounting-tests
+	url = git@github.com:scraswell/automation-accounting-tests.git
+[submodule "automation-data"]
+	path = automation-data
+	url = git@github.com:scraswell/automation-data.git
+[submodule "automation-data-access"]
+	path = automation-data-access
+	url = git@github.com:scraswell/automation-data-access.git
+[submodule "automation-data-access-tests"]
+	path = automation-data-access-tests
+	url = git@github.com:scraswell/automation-data-access-tests.git
+[submodule "automation-encryption"]
+	path = automation-encryption
+	url = git@github.com:scraswell/automation-encryption.git
+[submodule "automation-encryption-unit-tests"]
+	path = automation-encryption-unit-tests
+	url = git@github.com:scraswell/automation-encryption-unit-tests.git
+[submodule "web-repositories"]
+	path = web-repositories
+	url = git@github.com:scraswell/web-repositories.git
+[submodule "web-repositories-tests"]
+	path = web-repositories-tests
+	url = git@github.com:scraswell/web-repositories-tests.git
+[submodule "web-scraping"]
+	path = web-scraping
+	url = git@github.com:scraswell/web-scraping.git
+[submodule "web-scraping-unit-tests"]
+	path = web-scraping-unit-tests
+	url = git@github.com:scraswell/web-scraping-unit-tests.git
