@@ -1,29 +1,29 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{9344BDBB-3E7F-41FC-A0DD-8665D75EE146}") = "Craswell.Automation.Data", "Craswell.Automation.Data\Craswell.Automation.Data.mdproj", "{E2880055-4846-4079-909F-E0868F07E20A}"
+Project("{9344BDBB-3E7F-41FC-A0DD-8665D75EE146}") = "Craswell.Automation.Data", "automation-data\Craswell.Automation.Data.mdproj", "{E2880055-4846-4079-909F-E0868F07E20A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Craswell.Automation.DataAccess", "Craswell.Automation.DataAccess\Craswell.Automation.DataAccess.csproj", "{0E48F0AC-B3C1-4F0A-A89A-1EF444C9F47E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Craswell.Automation.DataAccess", "automation-data-access\Craswell.Automation.DataAccess.csproj", "{0E48F0AC-B3C1-4F0A-A89A-1EF444C9F47E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Craswell.Automation.DataAccess.Tests", "Craswell.Automation.DataAccess.Tests\Craswell.Automation.DataAccess.Tests.csproj", "{6A9F1280-18A1-4E63-B893-AFD4C9343732}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Craswell.Automation.DataAccess.Tests", "automation-data-access-tests\Craswell.Automation.DataAccess.Tests.csproj", "{6A9F1280-18A1-4E63-B893-AFD4C9343732}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Craswell.Encryption", "Craswell.Encryption\Craswell.Encryption.csproj", "{5FD7EF01-84F9-425B-95E9-41CF3CB258CB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Craswell.Encryption", "automation-encryption\Craswell.Encryption.csproj", "{5FD7EF01-84F9-425B-95E9-41CF3CB258CB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Craswell.Encryption.UnitTests", "Craswell.Encryption.UnitTests\Craswell.Encryption.UnitTests.csproj", "{B14F0E0A-E1A6-4D76-8515-36EBEB29AB16}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Craswell.Encryption.UnitTests", "automation-encryption-unit-tests\Craswell.Encryption.UnitTests.csproj", "{B14F0E0A-E1A6-4D76-8515-36EBEB29AB16}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManagedOpenSsl", "openssl-net\ManagedOpenSsl\ManagedOpenSsl.csproj", "{73DCC218-655B-485F-8EAC-0CE5F2F7343D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Craswell.WebScraping", "Craswell.WebScraping\Craswell.WebScraping.csproj", "{EE92A653-52DF-432F-94F9-AD5AC917825E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Craswell.WebScraping", "web-scraping\Craswell.WebScraping.csproj", "{EE92A653-52DF-432F-94F9-AD5AC917825E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Craswell.WebScraping.UnitTests", "Craswell.WebScraping.UnitTests\Craswell.WebScraping.UnitTests.csproj", "{6EE2C57C-5114-4FBD-AF51-429AC733D1D1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Craswell.WebScraping.UnitTests", "web-scraping-unit-tests\Craswell.WebScraping.UnitTests.csproj", "{6EE2C57C-5114-4FBD-AF51-429AC733D1D1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Craswell.Automation.Accounting", "Craswell.Automation.Accounting\Craswell.Automation.Accounting.csproj", "{770A5DCB-E42F-4A82-AEF6-E759C8B9A942}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Craswell.Automation.Accounting", "automation-accounting\Craswell.Automation.Accounting.csproj", "{770A5DCB-E42F-4A82-AEF6-E759C8B9A942}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Craswell.Automation.Accounting.Tests", "Craswell.Automation.Accounting.Tests\Craswell.Automation.Accounting.Tests.csproj", "{3A54FFD0-C4F3-4604-9CC4-61C33ACD3A3D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Craswell.Automation.Accounting.Tests", "automation-accounting-tests\Craswell.Automation.Accounting.Tests.csproj", "{3A54FFD0-C4F3-4604-9CC4-61C33ACD3A3D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Craswell.WebRepositories.Tests", "Craswell.WebRepositories.Tests\Craswell.WebRepositories.Tests.csproj", "{66A9EF88-77DF-4B03-9C7E-3D93D096E6C5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Craswell.WebRepositories.Tests", "web-repositories-tests\Craswell.WebRepositories.Tests.csproj", "{66A9EF88-77DF-4B03-9C7E-3D93D096E6C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Craswell.WebRepositories", "Craswell.WebRepositories\Craswell.WebRepositories.csproj", "{5F8026C3-70D6-4100-9B6F-8DAC532ED1FF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Craswell.WebRepositories", "web-repositories\Craswell.WebRepositories.csproj", "{5F8026C3-70D6-4100-9B6F-8DAC532ED1FF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
