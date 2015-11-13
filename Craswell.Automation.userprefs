@@ -1,8 +1,73 @@
-﻿<Properties StartupItem="web-repositories-tests/Craswell.WebRepositories.Tests.csproj" RefactoringSettings.EnableRefactorings="True">
+﻿<Properties StartupItem="web-repositories-tests\Craswell.WebRepositories.Tests.csproj" RefactoringSettings.EnableRefactorings="True">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Default" />
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Craswell.Automation" expanded="True">
+            <Node name="Craswell.Automation.Data" expanded="True">
+              <Node name="Tables" expanded="True" />
+            </Node>
+            <Node name="Craswell.Automation.DataAccess" expanded="True">
+              <Node name="Mappings" expanded="True" />
+            </Node>
+            <Node name="Craswell.Automation.DataAccess.Tests" expanded="True" />
+            <Node name="Craswell.WebRepositories" expanded="True">
+              <Node name="Tangerine" expanded="True" />
+            </Node>
+            <Node name="Craswell.WebRepositories.Tests" expanded="True">
+              <Node name="TangerineRepositoryTests.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State name="__root__">
+          <Node name="Craswell.Automation" expanded="True">
+            <Node name="Craswell.Automation.DataAccess.Tests" expanded="True">
+              <Node name="Craswell" expanded="True">
+                <Node name="Automation" expanded="True">
+                  <Node name="DataAccess" expanded="True">
+                    <Node name="Tests" expanded="True">
+                      <Node name="Test" expanded="True">
+                        <Node name="TestCase" selected="True" />
+                      </Node>
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+            <Node name="Craswell.WebRepositories.Tests" expanded="True">
+              <Node name="Craswell" expanded="True">
+                <Node name="WebRepositories" expanded="True">
+                  <Node name="Tests" expanded="True">
+                    <Node name="TangerineRepositoryTests" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="D:\Personal\Code\CSharp\automation\web-repositories-tests\TangerineRepositoryTests.cs" line="31" column="1" />
+      <Breakpoint file="D:\Personal\Code\CSharp\automation\web-repositories-tests\TangerineRepositoryTests.cs" line="35" column="1" />
+      <Breakpoint file="D:\Personal\Code\CSharp\automation\web-repositories-tests\TangerineRepositoryTests.cs" line="36" column="18" />
+      <Breakpoint file="D:\Personal\Code\CSharp\automation\web-scraping\HttpClient.cs" line="602" column="1" />
+      <Breakpoint file="D:\Personal\Code\CSharp\automation\web-scraping\HttpClient.cs" line="611" column="1" />
+      <Breakpoint file="D:\Personal\Code\CSharp\automation\web-scraping\HttpClient.cs" line="619" column="1" />
+      <Breakpoint file="D:\Personal\Code\CSharp\automation\web-scraping\HttpClient.cs" line="626" column="1" />
+      <Breakpoint file="D:\Personal\Code\CSharp\automation\web-scraping\HttpClient.cs" line="623" column="1" />
+      <Breakpoint file="D:\Personal\Code\CSharp\automation\web-scraping\HttpClient.cs" line="622" column="1" />
+      <Breakpoint file="D:\Personal\Code\CSharp\automation\web-scraping\HttpClient.cs" line="621" column="1" />
+      <Breakpoint file="D:\Personal\Code\CSharp\automation\web-repositories\Tangerine\TangerineClient.cs" line="185" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
