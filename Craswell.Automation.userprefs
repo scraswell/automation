@@ -1,0 +1,30 @@
+﻿<Properties StartupItem="Craswell.WebRepositories.Tests/Craswell.WebRepositories.Tests.csproj" RefactoringSettings.EnableRefactorings="True">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Default" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State name="__root__">
+          <Node name="Craswell.Automation" expanded="True">
+            <Node name="Craswell.WebRepositories.Tests" expanded="True">
+              <Node name="Craswell" expanded="True">
+                <Node name="WebRepositories" expanded="True">
+                  <Node name="Tests" expanded="True">
+                    <Node name="TangerineRepositoryTests" expanded="True">
+                      <Node name="TangerineRepository_CanGetAccounts" expanded="True">
+                        <Node name="TangerineRepository_CanGetAccounts()" selected="True" />
+                      </Node>
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
